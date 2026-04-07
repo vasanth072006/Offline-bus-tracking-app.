@@ -1,0 +1,331 @@
+{
+  "version": "2.0",
+  "description": "Cell tower area mapping database - India focus with Tamil Nadu/Chennai priority",
+  "last_updated": "2024-01",
+  "operators": {
+    "404_20": "Vodafone India",
+    "404_22": "Idea Cellular",
+    "404_10": "Airtel",
+    "404_30": "Airtel",
+    "404_45": "Airtel",
+    "404_49": "Airtel",
+    "404_43": "Vi (Vodafone Idea)",
+    "404_56": "Idea",
+    "404_01": "Kalam (BSNL)",
+    "404_07": "BSNL",
+    "405_840": "Jio",
+    "405_841": "Jio",
+    "405_842": "Jio",
+    "405_843": "Jio",
+    "405_844": "Jio",
+    "405_845": "Jio",
+    "405_846": "Jio",
+    "404_04": "Idea",
+    "404_17": "Aircel",
+    "404_28": "Aircel",
+    "404_38": "BSNL",
+    "404_44": "BSNL",
+    "404_51": "BSNL",
+    "404_58": "BSNL",
+    "404_60": "MTNL"
+  },
+  "areas": [
+    {
+      "mcc": 404, "mnc": 20, "lac": 11, "cid": 15213,
+      "area": "Chennai Central", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0827, "lon": 80.2707, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 11, "cid": 15214,
+      "area": "Anna Nagar", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0850, "lon": 80.2101, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 11, "cid": 15215,
+      "area": "T. Nagar", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0418, "lon": 80.2341, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 12, "cid": 15300,
+      "area": "Tambaram", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.9249, "lon": 80.1000, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 12, "cid": 15301,
+      "area": "Chromepet", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.9516, "lon": 80.1462, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 13, "cid": 15400,
+      "area": "Guindy", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0067, "lon": 80.2206, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 13, "cid": 15401,
+      "area": "Adyar", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0012, "lon": 80.2565, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 13, "cid": 15402,
+      "area": "Velachery", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.9815, "lon": 80.2209, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 14, "cid": 15500,
+      "area": "Perambur", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.1167, "lon": 80.2353, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 14, "cid": 15501,
+      "area": "Villivakkam", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.1119, "lon": 80.2093, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 14, "cid": 15502,
+      "area": "Ambattur", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.1143, "lon": 80.1548, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 15, "cid": 15600,
+      "area": "Egmore", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0732, "lon": 80.2609, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 15, "cid": 15601,
+      "area": "Mylapore", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0368, "lon": 80.2676, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 15, "cid": 15602,
+      "area": "Triplicane", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0576, "lon": 80.2786, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 16, "cid": 15700,
+      "area": "Sholinganallur", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.9010, "lon": 80.2279, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 16, "cid": 15701,
+      "area": "OMR (Old Mahabalipuram Road)", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.8956, "lon": 80.2270, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 16, "cid": 15702,
+      "area": "Perungudi", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 12.9436, "lon": 80.2390, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 17, "cid": 15800,
+      "area": "Porur", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0350, "lon": 80.1573, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 17, "cid": 15801,
+      "area": "Mogappair", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0922, "lon": 80.1780, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 17, "cid": 15802,
+      "area": "Avadi", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.1153, "lon": 80.1066, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 10, "lac": 1001, "cid": 20100,
+      "area": "Chennai Central (Airtel)", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0827, "lon": 80.2707, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 10, "lac": 1001, "cid": 20101,
+      "area": "Nungambakkam", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0574, "lon": 80.2430, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 10, "lac": 1002, "cid": 20200,
+      "area": "Kodambakkam", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0519, "lon": 80.2261, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 10, "lac": 1002, "cid": 20201,
+      "area": "Vadapalani", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0513, "lon": 80.2122, "type": "urban"
+    },
+    {
+      "mcc": 405, "mnc": 840, "lac": 2001, "cid": 30100,
+      "area": "Chennai (Jio)", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0827, "lon": 80.2707, "type": "urban"
+    },
+    {
+      "mcc": 405, "mnc": 840, "lac": 2001, "cid": 30101,
+      "area": "Anna Nagar West (Jio)", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0895, "lon": 80.2001, "type": "urban"
+    },
+    {
+      "mcc": 405, "mnc": 840, "lac": 2002, "cid": 30200,
+      "area": "Korattur (Jio)", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.1075, "lon": 80.1831, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 07, "lac": 3001, "cid": 40100,
+      "area": "Chennai BSNL Zone 1", "city": "Chennai", "state": "Tamil Nadu",
+      "lat": 13.0827, "lon": 80.2707, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 20, "cid": 16000,
+      "area": "Coimbatore City", "city": "Coimbatore", "state": "Tamil Nadu",
+      "lat": 11.0168, "lon": 76.9558, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 20, "cid": 16001,
+      "area": "RS Puram, Coimbatore", "city": "Coimbatore", "state": "Tamil Nadu",
+      "lat": 11.0019, "lon": 76.9566, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 21, "cid": 16100,
+      "area": "Madurai City", "city": "Madurai", "state": "Tamil Nadu",
+      "lat": 9.9252, "lon": 78.1198, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 21, "cid": 16101,
+      "area": "Anna Nagar, Madurai", "city": "Madurai", "state": "Tamil Nadu",
+      "lat": 9.9271, "lon": 78.1126, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 22, "cid": 16200,
+      "area": "Trichy City", "city": "Tiruchirappalli", "state": "Tamil Nadu",
+      "lat": 10.7905, "lon": 78.7047, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 23, "cid": 16300,
+      "area": "Salem City", "city": "Salem", "state": "Tamil Nadu",
+      "lat": 11.6643, "lon": 78.1460, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 24, "cid": 16400,
+      "area": "Tirunelveli City", "city": "Tirunelveli", "state": "Tamil Nadu",
+      "lat": 8.7139, "lon": 77.7567, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 25, "cid": 16500,
+      "area": "Vellore City", "city": "Vellore", "state": "Tamil Nadu",
+      "lat": 12.9165, "lon": 79.1325, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 30, "cid": 17000,
+      "area": "Mumbai Central", "city": "Mumbai", "state": "Maharashtra",
+      "lat": 18.9388, "lon": 72.8354, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 30, "cid": 17001,
+      "area": "Andheri", "city": "Mumbai", "state": "Maharashtra",
+      "lat": 19.1136, "lon": 72.8697, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 30, "cid": 17002,
+      "area": "Bandra", "city": "Mumbai", "state": "Maharashtra",
+      "lat": 19.0544, "lon": 72.8405, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 31, "cid": 17100,
+      "area": "Pune City Center", "city": "Pune", "state": "Maharashtra",
+      "lat": 18.5204, "lon": 73.8567, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 40, "cid": 18000,
+      "area": "Delhi Central", "city": "New Delhi", "state": "Delhi",
+      "lat": 28.6139, "lon": 77.2090, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 40, "cid": 18001,
+      "area": "Connaught Place", "city": "New Delhi", "state": "Delhi",
+      "lat": 28.6315, "lon": 77.2167, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 40, "cid": 18002,
+      "area": "Karol Bagh", "city": "New Delhi", "state": "Delhi",
+      "lat": 28.6514, "lon": 77.1907, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 41, "cid": 18100,
+      "area": "Gurgaon", "city": "Gurugram", "state": "Haryana",
+      "lat": 28.4595, "lon": 77.0266, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 50, "cid": 19000,
+      "area": "Bengaluru MG Road", "city": "Bengaluru", "state": "Karnataka",
+      "lat": 12.9716, "lon": 77.5946, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 50, "cid": 19001,
+      "area": "Whitefield", "city": "Bengaluru", "state": "Karnataka",
+      "lat": 12.9698, "lon": 77.7500, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 50, "cid": 19002,
+      "area": "Electronic City", "city": "Bengaluru", "state": "Karnataka",
+      "lat": 12.8447, "lon": 77.6688, "type": "suburban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 60, "cid": 20000,
+      "area": "Kolkata Park Street", "city": "Kolkata", "state": "West Bengal",
+      "lat": 22.5726, "lon": 88.3639, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 60, "cid": 20001,
+      "area": "Salt Lake City", "city": "Kolkata", "state": "West Bengal",
+      "lat": 22.5878, "lon": 88.4291, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 70, "cid": 21000,
+      "area": "Hyderabad HITEC City", "city": "Hyderabad", "state": "Telangana",
+      "lat": 17.3850, "lon": 78.4867, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 70, "cid": 21001,
+      "area": "Banjara Hills", "city": "Hyderabad", "state": "Telangana",
+      "lat": 17.4156, "lon": 78.4347, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 80, "cid": 22000,
+      "area": "Ahmedabad CG Road", "city": "Ahmedabad", "state": "Gujarat",
+      "lat": 23.0225, "lon": 72.5714, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 90, "cid": 23000,
+      "area": "Jaipur City Center", "city": "Jaipur", "state": "Rajasthan",
+      "lat": 26.9124, "lon": 75.7873, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 100, "cid": 24000,
+      "area": "Lucknow Hazratganj", "city": "Lucknow", "state": "Uttar Pradesh",
+      "lat": 26.8467, "lon": 80.9462, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 110, "cid": 25000,
+      "area": "Kochi Marine Drive", "city": "Kochi", "state": "Kerala",
+      "lat": 9.9312, "lon": 76.2673, "type": "urban"
+    },
+    {
+      "mcc": 404, "mnc": 20, "lac": 120, "cid": 26000,
+      "area": "Chandigarh Sector 17", "city": "Chandigarh", "state": "Chandigarh",
+      "lat": 30.7333, "lon": 76.7794, "type": "urban"
+    }
+  ],
+  "train_routes": [
+    {
+      "route": "Chennai Central - Tambaram",
+      "stations": [
+        {"name": "Chennai Central", "lac": 11, "cid_range": [15213, 15220], "lat": 13.0827, "lon": 80.2707},
+        {"name": "Chennai Park", "lac": 11, "cid_range": [15221, 15225], "lat": 13.0791, "lon": 80.2765},
+        {"name": "Chetpet", "lac": 11, "cid_range": [15226, 15230], "lat": 13.0750, "lon": 80.2440},
+        {"name": "Nungambakkam", "lac": 11, "cid_range": [15231, 15240], "lat": 13.0574, "lon": 80.2430},
+        {"name": "Kodambakkam", "lac": 11, "cid_range": [15241, 15250], "lat": 13.0519, "lon": 80.2261},
+        {"name": "Mambalam", "lac": 13, "cid_range": [15400, 15410], "lat": 13.0379, "lon": 80.2178},
+        {"name": "Saidapet", "lac": 13, "cid_range": [15411, 15420], "lat": 13.0212, "lon": 80.2201},
+        {"name": "Guindy", "lac": 13, "cid_range": [15400, 15405], "lat": 13.0067, "lon": 80.2206},
+        {"name": "Chrompet", "lac": 12, "cid_range": [15301, 15310], "lat": 12.9516, "lon": 80.1462},
+        {"name": "Tambaram", "lac": 12, "cid_range": [15300, 15300], "lat": 12.9249, "lon": 80.1000}
+      ]
+    }
+  ]
+}

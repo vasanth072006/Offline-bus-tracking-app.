@@ -1,0 +1,32 @@
+{
+  "description": "Extended India cell tower database",
+  "mcc_mnc_map": {
+    "404": "India",
+    "405": "India"
+  },
+  "lac_city_hints": {
+    "11": "Chennai North",
+    "12": "Chennai South",
+    "13": "Chennai Central-South",
+    "14": "Chennai North-West",
+    "15": "Chennai East",
+    "16": "Chennai South-East",
+    "17": "Chennai West",
+    "20": "Coimbatore",
+    "21": "Madurai",
+    "22": "Tiruchirappalli",
+    "23": "Salem",
+    "24": "Tirunelveli",
+    "25": "Vellore",
+    "30": "Mumbai",
+    "31": "Pune",
+    "40": "Delhi",
+    "50": "Bengaluru",
+    "60": "Kolkata",
+    "70": "Hyderabad",
+    "80": "Ahmedabad",
+    "90": "Jaipur",
+    "100": "Lucknow",
+    "110": "Kochi"
+  }
+}
